@@ -57,10 +57,6 @@ _Avoid_: Combo, menu, set
 **Delivery**:
 Fulfillment where a Driver brings the Order to the Customer's address.
 
-**Pickup**:
-Fulfillment where the Customer collects the Order at the Butcher.
-_Avoid_: Collection, takeaway
-
 **Delivery Radius**:
 The area around a Customer's address within which Butchers are offered that Customer's Order.
 _Avoid_: Zone, range
