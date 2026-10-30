@@ -27,6 +27,18 @@ docs: update setup instructions
 
 ## Agent skills
 
+### Issue tracker
+
+Issues and specs live in GitHub Issues on `denniskasper/ww-app` (via `gh`). See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+The five default triage labels, plus `spec` for specs published by `/to-spec`. See `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context: `GLOSSARY.md` and `docs/adr/` at the repo root. See `docs/agents/domain.md`.
+
 ## UI and design
 
 - **Always use the `/frontend-design` skill** for any UI or design work — new components, pages, layout, styling, or beautifying existing screens.
