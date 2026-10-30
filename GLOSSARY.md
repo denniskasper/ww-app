@@ -11,7 +11,7 @@ A person who places Orders through the app.
 _Avoid_: User, buyer, client
 
 **Butcher**:
-A partner Metzgerei that sells to the Customer through the platform and prepares the Orders it accepts. For Delivery, the Customer does not choose the Butcher.
+A partner Metzgerei that fulfils Orders for the platform in return for a Fulfilment Fee. The Butcher is not the seller; the Customer buys from the platform.
 _Avoid_: Vendor, merchant, restaurant, shop
 
 **Driver**:
@@ -33,8 +33,12 @@ An item a Customer can put in an Order, such as Weißwurst, Brezn, or süßer Se
 _Avoid_: Item, article, SKU
 
 **Platform Price**:
-The single retail price of a Product that every Butcher sells at.
+The single retail price at which the platform sells a Product to Customers.
 _Avoid_: List price, standard price
+
+**Fulfilment Fee**:
+What the platform pays a Butcher for fulfilling one Order, agreed separately with each Butcher.
+_Avoid_: Commission, payout, wholesale price
 
 **ASAP Order**:
 An Order to be fulfilled as soon as possible on the same morning.
